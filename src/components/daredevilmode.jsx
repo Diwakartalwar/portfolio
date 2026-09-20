@@ -340,7 +340,7 @@ const DaredevilMode = ({ onSwitch, active }) => {
           </h2>
 
           <button onClick={onSwitch}>
-            RETURN TO MATT MURDOCK
+            RETURN TO CIVILIAN MODE
           </button>
 
         </section>
