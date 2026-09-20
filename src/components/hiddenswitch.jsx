@@ -18,7 +18,7 @@ const HiddenSwitch = ({ onSwitch }) => {
       </button>
 
       <p>
-        © 2026 Matthew Murdock
+        © 2026 D. Talwar. All rights reserved.
       </p>
 
     </footer>
